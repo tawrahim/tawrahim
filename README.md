@@ -1,5 +1,3 @@
-### Hi there 👋 I'm Tawheed
-
 <img src="https://raw.githubusercontent.com/tawrahim/tawrahim/master/Artboard.png" alt="Tawheed A Raheem">
 
 <!--
