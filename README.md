@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tawrahim/tawrahim/master/Artboard.png" alt="Tawheed A Raheem">
+<img src="https://raw.githubusercontent.com/tawrahim/tawrahim/master/About_Me.png" alt="Tawheed A Raheem">
 
 <!--
 **tawrahim/tawrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
